@@ -1,0 +1,7 @@
+.title {
+  color: var(--white);
+  text-align: center;
+  padding: 24px 0;
+  background-color: chocolate;
+  text-transform: uppercase;
+}
